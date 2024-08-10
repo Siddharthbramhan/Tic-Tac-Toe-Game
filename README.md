@@ -1,1 +1,1 @@
-https://github.com/Siddharthbramhan/Tic-Tac-Toe-Game.git
+ https://siddharthbramhan.github.io/Tic-Tac-Toe-Game/
