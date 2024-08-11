@@ -81,6 +81,3 @@ boxes.forEach((box) => {
 
  newGamebtn.addEventListener("click", resetgame)
  resetBtn.addEventListener("click",resetgame)
-    
-          
-     
